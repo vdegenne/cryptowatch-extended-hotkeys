@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "cryptowatch-extended-shortcuts",
+  "version": "1.0",
+  "description": "",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://trade.kraken.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
