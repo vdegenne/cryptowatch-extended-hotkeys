@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "cryptowatch-extended-shortcuts",
+  "name": "cryptowatch-extended-hotkeys",
   "version": "1.0",
   "description": "",
   "content_scripts": [
