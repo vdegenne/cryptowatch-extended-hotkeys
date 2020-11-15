@@ -6,7 +6,8 @@
   "content_scripts": [
     {
       "matches": [
-        "*://trade.kraken.com/*"
+        "https://trade.kraken.com/*",
+        "https://cryptowat.ch/*"
       ],
       "js": [
         "content.js"
